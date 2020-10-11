@@ -1,3 +1,3 @@
 # MAImage
 
-A description of this package.
+Easy image caching with swift
